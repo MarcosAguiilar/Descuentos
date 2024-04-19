@@ -1,4 +1,4 @@
-#Descuentos fijos
+#Descuento fijo
 def descuento_fijo(price):
     result = 0
     if price > 20:
